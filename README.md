@@ -4,8 +4,6 @@
 # 💻 Tech Stack:
 ![](https://wakatime.com/share/@d53312de-458c-4c03-aa2d-666b8ca102a0/4b42b9ff-9392-4e09-a866-efaafea611e5.svg)
 
-# 📊 Coding Active Stats:
-![](https://wakatime.com/share/@d53312de-458c-4c03-aa2d-666b8ca102a0/00862916-5cee-4971-855b-4a0e4965d2ad.svg)
 
 <!--## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kraunanda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-dwi-ananda-b97797246) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kraunanda) 
