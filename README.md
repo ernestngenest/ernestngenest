@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m an Graduated Computer Science Student at Bina Nusantara University <br>👯 I’m looking to collaborate on Backend Projects as I am trying to learn it<br>🌱 I’m currently learning JavaScript, Rust, a few backends, and soon DevOps!<br>💬 Reach me on: ernestprabowo@gmail.com<br>⚡ Trying my best to balance out my hobbies and my passions
+
+# 💻 Tech Stack:
 ![](https://wakatime.com/share/@d53312de-458c-4c03-aa2d-666b8ca102a0/4b42b9ff-9392-4e09-a866-efaafea611e5.svg)
+
+# 📊 Coding Active Stats:
 ![](https://wakatime.com/share/@d53312de-458c-4c03-aa2d-666b8ca102a0/00862916-5cee-4971-855b-4a0e4965d2ad.svg)
 
 <!--## 🌐 Socials:
